@@ -1,6 +1,4 @@
-# Madhumita Halder
-
-**Technical Writer | API Documentation | Product Guides**
+**Technical Writer** | **API Documentation** | **Product Guides**
 
 **What to expect:** API references, developer guides, SDK docs, Release Notes, onboarding tutorials.
 
