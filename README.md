@@ -1,4 +1,4 @@
-# Madhumita — Technical Writer  
+# Technical Writer  
 **What to expect:** API references, developer guides, SDK docs, Release Notes, onboarding tutorials  
 
 **Tools:** VS Code, GitHub, Markdown, OpenAPI/Swagger, Confluence
