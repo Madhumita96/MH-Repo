@@ -6,12 +6,14 @@ Authentication: Bearer token in Authorization header
 --- 
 
 
+
 | Parameter | Type | Required | Description |
 | --- | --- | --- | --- |
 | title | string | Yes | Task title (max 255 characters) |
 | due_date | string | No | ISO 8601 date string (YYYY-MM-DD) |
 | priority | string | No | low, medium, or high. Default: medium |
 | assignee_id | integer | No | User ID of the assignee |
+
 
 
   
@@ -41,9 +43,12 @@ curl -X POST https://api.taskflow.io/v1/tasks \
 }
 ```
   
+
 ### Error responses 
 | Status | Code | Description |
 | --- | --- | --- |
 | 400 | invalid_field | A required field is missing or malformed |
 | 401 | unauthorized | Token is missing or expired |
 | 422 | validation_error | Due date is in the past |
+
+
