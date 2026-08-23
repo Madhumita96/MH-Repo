@@ -1,3 +1,9 @@
+---
+layout: page
+title: Getting Started Guide
+---
+
+
 
 This guide walks you through creating your first task in TaskFlow in under 5 minutes. 
 ## Before you begin  You need:
